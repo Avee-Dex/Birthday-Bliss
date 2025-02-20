@@ -1,5 +1,5 @@
 {
-  "greeting": "Hey there\n",
+  "greeting": "Hey there",
   "name": "Divanshika",
   "greetingText": "By the way, your name sounds absolutely magical! ✨",
   "wishText": "May your year be filled with fun adventures, unforgettable moments, and all the things that make you smile like you're the lead in your own epic story! 💖",
@@ -16,7 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "HAPPY BIRTHDAY, \nDIVANSHIKA !! ",
+  "wishHeading": "HAPPY BIRTHDAY, DIVANSHIKA !! ",
   "outroText": "Now go on and tell me how amazing that felt, okay? Or hit replay/refresh if you’re up for more birthday magic! 😉",
   "replayText": "Or click here if you want the party to go on and on! 🎶",
   "outroSmiley": ":)"
